@@ -18,11 +18,11 @@ https://www.meetup.com/iOS-Development-Meetup-for-Beginner/
 
 ## 0, Create your project
 
-> 0-1. Open Xcode  
-> 0-2. Select "Create a new Xcode project"  
-> 0-3. Select "Single View Application" and then tap "Next"  
-> 0-4. Fill "Product name" and then tap "Next"  
-> 0-5. Select the place for saving your project and then tap "Create"  
+> Open Xcode  
+> Select "Create a new Xcode project"  
+> Select "Single View Application" and then tap "Next"  
+> Fill "Product name" and then tap "Next"  
+> Select the place for saving your project and then tap "Create"  
 
 ## 1, Collect Resources
 
@@ -37,7 +37,7 @@ Get icons from [here](https://github.com/iosClassForBeginner/video-en/tree/maste
 #### 🗂 Main.storyboard
 
 2-1. Add video player based view to the storyboad
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/video-en/blob/master/gifs%2Bimgs/1.gif" /></div></details>
+> <details><summary>How to add UIView to the storyboard</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/video-en/blob/master/gifs%2Bimgs/1.gif" /></div></details>
 
 2-2. Add play, stop and retry button, content mode and Autosizing
 > <details><summary>How to add button to the storyboad</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/video-en/blob/master/gifs%2Bimgs/2.gif" /></div></details>
@@ -60,7 +60,7 @@ Your storyboard may looks like this
 
 > <details><summary>How to connect actions</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/video-en/blob/master/gifs%2Bimgs/7.gif" /></div></details>
 
-## 5, Add code blocks in ViewController.swift
+## 4, Add code blocks in ViewController.swift
 
 ★ It's preferable to write following code yourself. It will help you to understand code more.
 
